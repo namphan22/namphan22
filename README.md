@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nam Phan</h1>
-<h3 align="center">A guy passionate embedded software development</h3>
 
 - 📫 How to reach me **phanvanhoainam22@gmail.com**
 
