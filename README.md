@@ -7,6 +7,8 @@
 
 <a href="https://www.linkedin.com/in/namphan22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namphan22/" height="30" width="40" /></a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namphan22&show_icons=true&locale=en" alt="namphan22" /></p>
+
 
 
 
