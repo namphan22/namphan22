@@ -1,4 +1,6 @@
 <h2 align="left">Hi 👋, I'm Nam Phan</h2>
+  <img src="https://komarev.com/ghpvc/?username=namphan22&label=Profile%20views&color=f69673&style=flat" alt="namphan22" />
+
 
 - 📫 How to reach me **phanvanhoainam22@gmail.com**
 
